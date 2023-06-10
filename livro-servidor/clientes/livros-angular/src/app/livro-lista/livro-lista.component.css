@@ -1,0 +1,18 @@
+.title-actions {
+  display: flex;
+  flex-direction: column;
+}
+.table-header {
+  background-color: black;
+  color: white;
+}
+.btn-excluir {
+  width: 70px;
+}
+.titulo-column {
+  width: 20%;
+}
+.resumo-column {
+  width: 50%;
+}
+
